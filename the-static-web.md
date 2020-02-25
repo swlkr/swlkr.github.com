@@ -1,6 +1,6 @@
 ---
 title: The Static Web
-date: 2020-02-25 09:24:55 AM
+date: 2020-02-25
 ---
 
 # The static web
