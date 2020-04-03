@@ -77,6 +77,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+p {
+  font-size: 18px;
+}
+
 button, input, textarea {
   transition: background-color var(--animation-duration) linear,
               border-color var(--animation-duration) linear,
