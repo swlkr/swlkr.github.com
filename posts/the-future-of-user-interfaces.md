@@ -3,7 +3,7 @@ title: The future of user interfaces
 date: 2020-03-18
 ---
 
-The future of user interfaces
+# The future of user interfaces
 
 How do we really want to interact with computers? I don’t actually want to tap on a screen, I actually want to...
 
