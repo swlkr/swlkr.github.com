@@ -1,6 +1,6 @@
 ---
 title: AlpineJS Confirm Modals
-date: 2020-04-26
+date: 2020-04-29
 ---
 
 # Easy alpinejs confirm modals
